@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hey, I’m Dasaradh D
 
-<!--
-**dasaradhdharmesh/dasaradhdharmesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate who’s really into finding patterns and stories hidden in data.
+Right now, I’m pursuing my Postgraduate Program in Data Science and Analytics at Imarticus Learning, Bangalore.
 
-Here are some ideas to get you started:
+I enjoy working with Python, MySQL, and Excel, especially when it comes to cleaning messy data and turning it into something useful and clear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I’m Learning
+
+Using Python for data analysis and visualization
+
+Managing and working with databases using MySQL
+
+Creating dashboards and reports in Excel and Power BI
+
+Understanding how data can help make better decisions
+
+🧰 Tools & Skills
+
+Languages: Python, SQL
+Tools: Excel, MySQL, Power BI, Jupyter Notebook
+Areas: Data Cleaning, Visualization, Reporting, EDA
+
+🎯 My Focus
+
+I’m trying to build a solid foundation in data analytics — not just the technical side, but also how to think through problems and find insights that actually matter.
+
+📫 Reach Me At
+
+Email: dharmeshdasaradh@gmail.com
+
+LinkedIn: linkedin.com/in/dasaradh-d-81b05b390
+
+GitHub: github.com/dasaradhdharmesh
