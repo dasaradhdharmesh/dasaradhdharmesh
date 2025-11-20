@@ -1,34 +1,46 @@
 👋 Hey, I’m Dasaradh D
 
-I’m a Computer Science graduate who’s really into finding patterns and stories hidden in data.
+I’m a Computer Science graduate who’s really into finding patterns and stories hidden in data.  
 Right now, I’m pursuing my Postgraduate Program in Data Science and Analytics at Imarticus Learning, Bangalore.
 
-I enjoy working with Python, MySQL, and Excel, especially when it comes to cleaning messy data and turning it into something useful and clear.
+I enjoy working with Python, MySQL, Excel, and Power BI — especially when it comes to cleaning messy data, exploring insights, and turning information into something meaningful and clear.
 
-🔍 What I’m Learning
 
-Using Python for data analysis and visualization
+What I’m Learning
 
-Managing and working with databases using MySQL
+- Using Python for data analysis and visualization  
+- Managing and working with databases using MySQL  
+- Creating dashboards and reports in Excel and Power BI  
+- Understanding how data supports better decision-making  
+- Writing and explaining data/AI concepts in a simple way on Medium  
 
-Creating dashboards and reports in Excel and Power BI
 
-Understanding how data can help make better decisions
+Tools & Skills
 
-🧰 Tools & Skills
+**Languages:** Python, SQL  
+**Tools:** Excel, MySQL, Power BI, Jupyter Notebook, Git & GitHub  
+**Areas:** Data Cleaning, EDA, Visualization, Reporting, Basic ML  
 
-Languages: Python, SQL
-Tools: Excel, MySQL, Power BI, Jupyter Notebook
-Areas: Data Cleaning, Visualization, Reporting, EDA
 
-🎯 My Focus
+📝 My Latest Blog
 
-I’m trying to build a solid foundation in data analytics — not just the technical side, but also how to think through problems and find insights that actually matter.
+I write on Medium to simplify data and AI concepts:
 
-📫 Reach Me At
+**Embedding Drift Detection – How AI Identifies When Its Understanding Becomes Outdated**  
+👉 https://medium.com/@dharmeshdasaradh/embedding-drift-detection-how-ai-identifies-when-its-understanding-becomes-outdated-8bdc02904635
 
-Email: dharmeshdasaradh@gmail.com
+(More articles coming soon!)
 
-LinkedIn: linkedin.com/in/dasaradh-d-81b05b390
 
-GitHub: github.com/dasaradhdharmesh
+My Focus
+
+I’m building a strong foundation in data analytics — not just learning tools, but understanding how to think through problems, analyze information, and create insights that actually matter.
+
+
+Reach Me At
+
+ Email: dharmeshdasaradh@gmail.com  
+ LinkedIn: https://linkedin.com/in/dasaradh-d-81b05b390  
+ GitHub: https://github.com/dasaradhdharmesh  
+ Medium: https://medium.com/@dharmeshdasaradh
+
