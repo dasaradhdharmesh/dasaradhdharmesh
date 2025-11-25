@@ -28,6 +28,7 @@ I write on Medium to simplify data and AI concepts:
 
 **Embedding Drift Detection – How AI Identifies When Its Understanding Becomes Outdated**  
 👉 https://medium.com/@dharmeshdasaradh/embedding-drift-detection-how-ai-identifies-when-its-understanding-becomes-outdated-8bdc02904635
+
 **Why AI Models Hallucinate — And What We Can Actually Do About It**
 👉https://medium.com/@dharmeshdasaradh/why-ai-models-hallucinate-and-what-we-can-actually-do-about-it-25e2f8b8d021
 
