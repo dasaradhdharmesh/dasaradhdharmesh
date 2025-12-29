@@ -18,7 +18,7 @@ What I’m Learning
 Tools & Skills
 
 **Languages:** Python, SQL  
-**Tools:** Excel, MySQL, Power BI, Jupyter Notebook, Git & GitHub  
+**Tools:** Excel, MySQL, Power BI,Tableau, Jupyter Notebook, Git & GitHub  
 **Areas:** Data Cleaning, EDA, Visualization, Reporting, Basic ML  
 
 
