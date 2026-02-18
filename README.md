@@ -1,49 +1,76 @@
-👋 Hey, I’m Dasaradh D
+# 👋 Hey, I’m Dasaradh D
 
-I’m a Computer Science graduate who’s really into finding patterns and stories hidden in data.  
-Right now, I’m pursuing my Postgraduate Program in Data Science and Analytics at Imarticus Learning, Bangalore.
+🎓 Computer Science Graduate | 📊 Data Analyst | 🤖 Aspiring Data Scientist  
 
-I enjoy working with Python, MySQL, Excel, and Power BI — especially when it comes to cleaning messy data, exploring insights and turning information into something meaningful and clear.
+I’m a Computer Science graduate and Data Analyst with a strong foundation in **Data Science, Machine Learning, and advanced analytics**.  
 
+I enjoy working at the intersection of **data, statistics, and AI** transforming raw datasets into structured insights and building models that solve real-world problems.
 
-What I’m Learning
+Currently, I’m strengthening my expertise across analytics, machine learning, and applied AI systems.
 
-- Using Python for data analysis and visualization  
-- Managing and working with databases using MySQL  
-- Creating dashboards and reports in Excel and Power BI  
-- Understanding how data supports better decision-making  
-- Writing and explaining data/AI concepts in a simple way on Medium  
+I work across the complete data lifecycle from data extraction and cleaning to exploratory analysis, feature engineering, predictive modeling, and dashboard development.
 
+---
 
-Tools & Skills
+# 🔍 What I Work On
 
-**Languages:** Python, SQL  
-**Tools:** Excel, MySQL, Power BI,Tableau, Jupyter Notebook, Git & GitHub  
-**Areas:** Data Cleaning, EDA, Visualization, Reporting, Basic ML  
+- Advanced SQL analytics (Joins, CTEs, Window Functions, Complex Queries)
+- Exploratory Data Analysis (EDA) & Feature Engineering using Python
+- Supervised & Unsupervised Machine Learning
+- Ensemble Techniques (Boosting, Bagging, Stacking)
+- Artificial Neural Networks (ANN)
+- Deep Learning Foundations (CNN, RNN, FNN)
+- Business Reporting using Power BI, Tableau, and Excel
 
+---
 
-📝 My Latest Blog
+# 🛠 Tools & Technologies
 
-I write on Medium to simplify data and AI concepts:
+### 💻 Languages
+- Python  
+- SQL  
 
-**Embedding Drift Detection – How AI Identifies When Its Understanding Becomes Outdated**  
-👉 https://medium.com/@dharmeshdasaradh/embedding-drift-detection-how-ai-identifies-when-its-understanding-becomes-outdated-8bdc02904635
+### 🗄 Databases
+- MySQL  
 
-**Why AI Models Hallucinate — And What We Can Actually Do About It**
+### 📊 Visualization
+- Power BI  
+- Tableau  
+- Excel  
 
-👉https://medium.com/@dharmeshdasaradh/why-ai-models-hallucinate-and-what-we-can-actually-do-about-it-25e2f8b8d021
+### 🤖 ML & DL
+- Scikit-learn  
+- Artificial Neural Networks (ANN)  
+- Convolutional Neural Networks (CNN)  
+- Recurrent Neural Networks (RNN)  
 
-(More articles coming soon!)
+### 🔄 Workflow & Development
+- Jupyter Notebook  
+- Git  
+- GitHub  
 
+---
 
-My Focus
+# 📝 Writing & Thought Leadership
 
-I’m building a strong foundation in data analytics — not just learning tools, but understanding how to think through problems, analyze information and create insights that actually matter.
+I write on **Medium** to break down complex Data Science and AI topics into simple, practical explanations:
 
+- *Embedding Drift Detection – How AI Identifies When Its Understanding Becomes Outdated*
+- *Why AI Models Hallucinate — And What We Can Actually Do About It*
 
-Reach Me At
+I focus on making advanced concepts accessible, practical, and industry-relevant.
 
- Email: dharmeshdasaradh@gmail.com  
- LinkedIn: https://linkedin.com/in/dasaradh-d-81b05b390  
- Medium: https://medium.com/@dharmeshdasaradh
+---
 
+# 🎯 My Focus
+
+I’m building toward becoming a well-rounded **Data Science professional** — combining strong analytical thinking, advanced ML techniques, and practical business insight to deliver measurable impact.
+
+---
+
+# 📬 Connect With Me
+
+- 📧 Email: dharmeshdasaradh@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/dasaradh-d-81b05b390  
+- ✍ Medium: https://medium.com/@dharmeshdasaradh  
+- 🌐 Portfolio: https://dasaradh-portfolio.vercel.app
